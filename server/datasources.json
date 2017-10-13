@@ -1,0 +1,12 @@
+{
+  "mongo2": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://jeopardy:jeopardy@ds139979.mlab.com:39979/practice",
+    "database": "",
+    "password": "",
+    "name": "mongo2",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
